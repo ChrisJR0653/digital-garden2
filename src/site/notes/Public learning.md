@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/public-learning/"}
 ---
 
+[[Digital Garden/My Garden\|My Garden]]
+
 Public learning means sharing information, ideas, and knowledge to the public online, rather than keep them private & offline.
 
 So much of the value generated each day never sees the light of day, which slows down the development of the human species.
