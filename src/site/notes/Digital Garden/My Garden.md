@@ -18,8 +18,33 @@ If you want to see best how this works, then visit [Wanderloots](https://wanderl
 
 This is all part of the project to make us all more self-sufficient and if you don't like what's going on, you can always vote with your feet.
 
-For me that meant moving part-time to[ Thailand](https://quiditysupport.com/design-a-life/).  This I hope to move to a more permanent basis in the near future.
+For me that meant moving part-time to[Thailand](https://quiditysupport.com/design-a-life/). This I hope to move to a more permanent basis in the near future.
 
 Join me on this journey and let's all benefit from [collaborative learning](https://www.sciencedirect.com/science/article/pii/S1877042811030205).
+
+[Return to my website](https://quiditysupport.com/about)
+
+
+I have recently started an online side hussle (working for me anyway!!) and I have been in contact with Greg, the originator of this programme to develop it to help others...
+
+![Screenshot 2025-01-22 at 10.28.21.png](/img/user/assets/Screenshot%202025-01-22%20at%2010.28.21.png)
+https://pdffarming.com/masterclass-3844?am_id=Quiditysupport
+
+But Greg seems to prefer Notion for his workflows (see a sample template here https://bit.ly/4aqnWoW ) whereas I am an Obsidian "fanboy", so I pulled this up which I think sums up the way my ADHD brain works...
+
+##### Why did I switch from Obsidian to Notion?
+
+**Final Verdict**
+
+- Notion is for people who want to be very organised in a clean-cut, easily navigate able manner.
+- Obsidian is for people who want to explore themselves, who want to be able to map out their thoughts and stumble upon new connections -- note-taking, and maybe content creation.
+Which incidentally would appear to fit in with the idea of a "Digital Garden"!
+
+If you can't be bothered (and have a life!) to build your own templates in Obsidian, I can thoroughly recommend [Obsibrain](https://www.obsibrain.com/?aff=5OWvvX)
+
+![Screenshot 2025-01-22 at 10.37.49.png](/img/user/assets/Screenshot%202025-01-22%20at%2010.37.49.png)
+https://www.obsibrain.com?aff=5OWvvX
+
+[Email me](mailto:chris@quiditysupport.com) if you need help getting started with either of these.
 
 [Return to my website](https://quiditysupport.com/about)
