@@ -50,7 +50,6 @@ An excellent example of what I'm talking about is the ability for Obsidian to po
 
 ![[Obsidian graph animation.mp4]]
 
-
 Not only does this show that thoughts and ideas are very rarely, if ever, in isolation but all part of a greater whole.
 
 This animation of my personal Obsidian vault (my second brain) shows how this grows over time which possibly compensates for the fact that my first brain is degenerating at a similar pace!
@@ -60,6 +59,4 @@ If you want to know more about this - look at [[Digital Garden/What is "The Nun 
 [Email me](mailto:chris@quiditysupport.com) if you need help getting started with either of these.
 
 [Return to my website](https://quiditysupport.com/about)
-
-
 
