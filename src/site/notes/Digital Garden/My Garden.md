@@ -4,7 +4,7 @@
 
 [Go to my website](https://quiditysupport.com/about)
 
-Watch this space to see how this develops.  
+Watch this space to see how this develops. I suppose this is more like a blog but it just grows - hence the "garden" analogy.
 
 This is where I will be putting my thoughts and trying to arrange them into some form of coherent order.
 
@@ -24,7 +24,6 @@ Join me on this journey and let's all benefit from [collaborative learning](http
 
 [Return to my website](https://quiditysupport.com/about)
 
-
 I have recently started an online side hussle (working for me anyway!!) and I have been in contact with Greg, the originator of this programme to develop it to help others...
 
 ![Screenshot 2025-01-22 at 10.28.21.png](/img/user/assets/Screenshot%202025-01-22%20at%2010.28.21.png)
@@ -32,7 +31,7 @@ https://pdffarming.com/masterclass-3844?am_id=Quiditysupport
 
 But Greg seems to prefer Notion for his workflows (see a sample template here https://bit.ly/4aqnWoW ) whereas I am an Obsidian "fanboy", so I pulled this up which I think sums up the way my ADHD brain works...
 
-##### Why did I switch from Obsidian to Notion?
+# Why Did I Switch from Obsidian to Notion?
 
 **Final Verdict**
 
@@ -45,6 +44,22 @@ If you can't be bothered (and have a life!) to build your own templates in Obsid
 ![Screenshot 2025-01-22 at 10.37.49.png](/img/user/assets/Screenshot%202025-01-22%20at%2010.37.49.png)
 https://www.obsibrain.com?aff=5OWvvX
 
+## Personal Example
+
+An excellent example of what I'm talking about is the ability for Obsidian to portray everything in a graph format.
+
+![[Obsidian graph animation.mp4]]
+
+
+Not only does this show that thoughts and ideas are very rarely, if ever, in isolation but all part of a greater whole.
+
+This animation of my personal Obsidian vault (my second brain) shows how this grows over time which possibly compensates for the fact that my first brain is degenerating at a similar pace!
+
+If you want to know more about this - look at [[Digital Garden/What is "The Nun Study"?\|What is "The Nun Study"?]]
+
 [Email me](mailto:chris@quiditysupport.com) if you need help getting started with either of these.
 
 [Return to my website](https://quiditysupport.com/about)
+
+
+

@@ -22,4 +22,8 @@ There are also many different ways you can _boost_ the value of others by lear
 
 You don't have to be a "creator" to share or boost value. Participating in the public discourse adds a ton of value. It's a form of [Computer-Supported Collaborative Learning](https://en.wikipedia.org/wiki/Computer-supported_collaborative_learning)
 
+The reason we should never stop learning is bourn out by [[Digital Garden/What is "The Nun Study"?\|What is "The Nun Study"?]]
+
+Unfortunately, [my wife](https://quiditysupport.com/about/) (bless her) would argue it is probably too late for me!!
+
 [Email me](mailto:chris@quidity.co.uk) to become part of this project
