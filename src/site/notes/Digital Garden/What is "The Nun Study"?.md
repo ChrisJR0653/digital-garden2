@@ -4,8 +4,8 @@
 
 Return to [[Digital Garden/My Garden\|My Garden]]
 
-> [!Cite]The Nun Study
-> https://pubmed.ncbi.nlm.nih.gov/9127971/
+The Nun Study
+https://pubmed.ncbi.nlm.nih.gov/9127971/
 
 The Nun Study is ==a longitudinal study of aging and Alzheimer's disease that examines the brains of Catholic sisters==. The study's findings have helped scientists better understand how Alzheimer's disease and other factors affect the brain and cognitive function. 
 
