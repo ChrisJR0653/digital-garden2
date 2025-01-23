@@ -55,7 +55,7 @@ Not only does this show that thoughts and ideas are very rarely, if ever, in iso
 
 This animation of my personal Obsidian vault (my second brain) shows how this grows over time which possibly compensates for the fact that my first brain is degenerating at a similar pace!
 
-If you want to know more about this - look at [[Digital Garden/What is "The Nun Study"?\|What is "The Nun Study"?]]
+If you want to know more about this - look at [[Digital Garden/Public learning\|Public learning]]
 
 [Email me](mailto:chris@quiditysupport.com) if you need help getting started with either of these.
 
