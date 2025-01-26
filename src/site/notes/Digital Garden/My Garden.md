@@ -4,6 +4,8 @@
 
 [Go to my website](https://quiditysupport.com/about)
 
+Goto [[Digital Garden/My Garden test\|My Garden test]]
+
 Watch this space to see how this develops. I suppose this is more like a blog but it just grows - hence the "garden" analogy.
 
 This is where I will be putting my thoughts and trying to arrange them into some form of coherent order.
