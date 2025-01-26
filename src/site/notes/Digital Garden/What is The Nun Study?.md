@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/digital-garden/what-is-the-nun-study/","tags":["DG"]}
 ---
 
+
 Return to [[Digital Garden/My Garden\|My Garden]]
 
 The Nun Study
