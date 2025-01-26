@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/my-garden/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-garden/the-nun-study/"}
 ---
 
 [Go to my website](https://quiditysupport.com/about)
 
-Goto [[Digital Garden/The Nun Study\|The Nun Study]]
+Test
 
 Watch this space to see how this develops. I suppose this is more like a blog but it just grows - hence the "garden" analogy.
 
