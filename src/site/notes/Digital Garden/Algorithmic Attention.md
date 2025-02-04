@@ -22,4 +22,22 @@ Platforms often say it's a black box, or that algorithms are mysterious, or that
 
 What controls the algorithms? **The incentives that the platforms establish.**
 
+Once the algorithms "know you", they know what to show you that will you keep you there. Their next goal is to get you to engage more & longer. The best way to do this is through conflict.
+
+Negative news [sparks more engagement and spreads faster than positive news](https://paragraph.xyz/api/metrics/email-track/click?id=br1ReLrBHNdLTObmWWy4&linkId=a5416e0b-6aac-439c-8ba3-5c884ce5a8cb&url=https%3A%2F%2Fwww.library.hbs.edu%2Fworking-knowledge%2Fhate-spreads-faster-on-twitter-evidence-from-44-news-outlets). People are much more likely to comment and keep up with news that is geared towards outrage. Outrage is often triggered when information goes _against_ your beliefs.
+
+So, the algorithms figure out what you like (confirmation bias) to slot you into an echo chamber, and then trigger outrage by showing things that you disagree with, commentary from people you agree with that discusses topics you don't. This brief commentary is usually done through short snippets (< 30 s videos) & headlines.
+
+Unfortunately, most issues are not black and white, either/or. We live in a quantum world, one where two things can be true at the same time - both/and world. But that is _not the way algorithms present information_.
+
+When we solely read headlines or take interviews & information out of context in short social media snippets, we lose the nuance of the issues.
+
+With our declining attention, we don't have the capacity (or motivation) to dive into the nuance of the issues.
+
+We're left with the polarization every issue, despite the fact that many people would otherwise have been closer to agreeing than disagreeing; people are sorted into a me vs you, an us vs them mentality.
+
+The line is drawn, and people dig their feet in, entrenching themselves in their beliefs.
+
+Algorithms end up determining what we believe by slowly manipulating our emotions, stoking anger and soothing satisfaction, subtly controlling our emotions related to topics that are far too complex to ever be understood through social media snippets.
+
 [[Digital Garden/My Garden\|My Garden]]
