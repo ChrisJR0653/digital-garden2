@@ -4,11 +4,15 @@
 
 [Go to my website](https://quiditysupport.com/about)
 
-Goto [[Digital Garden/The Nun Study\|The Nun Study]]
-
 Watch this space to see how this develops. I suppose this is more like a blog but it just grows - hence the "garden" analogy.
 
 This is where I will be putting my thoughts and trying to arrange them into some form of coherent order.
+
+# Consistency: The Power of Small Steps
+
+Consistency isn't about perfection or maximum effort daily. It's about showing up, regardless of conditions, and doing what you can:  
+	
+The size of your steps doesn't matter as much as the decision to take them daily. Over time, these small steps accumulate, leading you further than you might have imagined. Remember, progress is progress, no matter how small. Keep moving forward.
 
 See [[Digital Garden/Public learning\|Public learning]] to find out more
 
