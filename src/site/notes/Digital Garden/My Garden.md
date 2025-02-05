@@ -26,7 +26,7 @@ If you want to see best how this works, then visit [Wanderloots](https://wanderl
 
 This is all part of the project to make us all more self-sufficient and if you don't like what's going on, you can always vote with your feet.
 
-For me that meant moving part-time to[Thailand](https://quiditysupport.com/design-a-life/). This I hope to move to a more permanent basis in the near future.
+For me that meant moving part-time to [Thailand](https://quiditysupport.com/design-a-life/). This I hope to move to a more permanent basis in the near future.
 
 Join me on this journey and let's all benefit from [collaborative learning](https://www.sciencedirect.com/science/article/pii/S1877042811030205).
 
