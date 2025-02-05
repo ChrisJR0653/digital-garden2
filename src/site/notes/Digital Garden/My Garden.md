@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/digital-garden/my-garden/","tags":["gardenEntry"]}
 ---
 
+Where the concept started - https://maggieappleton.com/garden-history/
+
 [Go to my website](https://quiditysupport.com/about)
 
 Watch this space to see how this develops. I suppose this is more like a blog but it just grows - hence the "garden" analogy.
