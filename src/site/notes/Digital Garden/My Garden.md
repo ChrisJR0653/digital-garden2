@@ -8,7 +8,9 @@ Where the concept started - https://maggieappleton.com/garden-history/
 
 Watch this space to see how this develops. I suppose this is more like a blog but it just grows - hence the "garden" analogy.
 
-This is where I will be putting my thoughts and trying to arrange them into some form of coherent order, but I suppose that is more the purpose of [my blog](https://quiditysupport.com/blogs/).  This is more about possible disconnected ramblings that later on turn out to have connections and that is the power of this type of "brain dump"
+This is where I will be putting my thoughts and trying to arrange them into some form of coherent order, but I suppose that is more the purpose of [my blog](https://quiditysupport.com/blogs/). This is more about possible disconnected ramblings that later on turn out to have connections and that is the power of this type of "brain dump"
+
+Speaking of disconnected ramblings - my "bete noir" - [[Digital Garden/Airports\|Airports]]
 
 # Consistency: The Power of Small Steps
 
